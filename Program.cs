@@ -51,7 +51,7 @@ namespace SelectionStatements
                     Console.WriteLine("Math is a challenging subject!!");
                     break;
                 default:
-                    Console.WriteLine($"UGHHH I havent taken that subject yet.  {subject} sounds interesting!!");
+                    Console.WriteLine($"UGHHH I havent taken that subject yet.  {subject} sounds very interesting though!!");
                     break;
             }
 
